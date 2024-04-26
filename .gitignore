@@ -2,3 +2,10 @@ PHP/vendor/
 composer.phar
 
 nodejs/node_modules/
+
+Java/codi01/bin/
+Java/codi01/.settings/
+
+Java/prueba01/bin/
+Java/prueba01/.settings/
+Java/prueba01/lib/
