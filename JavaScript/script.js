@@ -10,7 +10,7 @@ form.addEventListener('submit', function(e) {
     
     console.log(location);
 
-    let apiKey = '6fe5c5ac7ffa0f611b2acfeb365f8404';
+    let apiKey = '{API_KEY}';
     let apiUrl = 'https://api.openweathermap.org/data/2.5/weather?lang=es&q=' + location + '&appid=' + apiKey;
 
     fetch(apiUrl)
